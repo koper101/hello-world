@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi everybody,
+
+My name is Brock, and i am studying to be apart of the cyber security community!
